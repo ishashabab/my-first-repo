@@ -13,7 +13,34 @@
 - 🌍 Building Travel & Movie Apps
 - 🎬 Interested in Video Editing & Creative Design
 
+> “Creativity meets technology through code and visuals.” ✨
+
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</p>
+## 🎨 Creative Skills
+
+- 🎬 Video Editing
+- 📸 Photo Editing & Clipping
+- ✨ Motion Effects
+- 🎵 Audio Sync & Transitions
+- 🖌️ UI/Visual Design
+
+## 🎬 Video Editing
+
+✨ Passionate about cinematic edits, reels & creative storytelling  
+🎞️ Love creating aesthetic transitions and motion-based content  
+🎧 Enjoy syncing visuals with music and effects  
+📱 Editing short-form content for social media & creative projects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550"/>
+</p>
+
+<p align="center">
+💻 Coding by day • Editing cinematic visuals by night 🎬
+</p>
 
 ## 🚀 Tech Stack
 
@@ -43,5 +70,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ishashabab)
 
 ---
-
-✨ “Code • Create • Inspire”
